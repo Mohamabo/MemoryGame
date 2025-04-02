@@ -5,3 +5,8 @@
     margin: 10px;
     display: inline-block;
 }
+
+h1 {
+    text-align: center;
+    text-decoration-color: darkblue;
+}
